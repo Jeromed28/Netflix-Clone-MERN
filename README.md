@@ -10,7 +10,9 @@
 
 ### Step2 :
 
-`npm install && cd frontend && npm install`
+```shell
+npm install && cd frontend && npm install
+```
 
 ### To start the app
 
